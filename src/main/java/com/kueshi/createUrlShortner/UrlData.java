@@ -9,5 +9,5 @@ import lombok.Setter;
 @Setter
 public class UrlData {
     private String originalUrl;
-    private long expirationTIme;
+    private long expirationTime;
 }
